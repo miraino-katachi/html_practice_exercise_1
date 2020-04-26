@@ -1,0 +1,60 @@
+@charset "utf-8";
+body {
+    margin: 0;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.header {
+    background-image: url(../img/ramen-4671492_1280.jpg);
+    background-size: cover;
+    background-position: top center;
+    padding: 20px 0 100px 20px;
+}
+
+.header h1 {
+    color: #ffffff;
+    margin: 0;
+}
+
+.header p {
+    color: #ffffff;
+    margin: 0;
+}
+
+.navi {
+    width: 100%;
+}
+
+.navi ul {
+    list-style: none;
+    display: flex;
+}
+
+.navi ul li {
+    margin-right: 10px;
+}
+
+.main {
+    width: 100%;
+    display: flex;
+}
+
+.contents {
+    width: 70%;
+}
+
+.contents img {
+    width: 100%;
+}
+
+.menu {
+    width: 30%;
+}
+
+.footer {
+    width: 100%;
+}

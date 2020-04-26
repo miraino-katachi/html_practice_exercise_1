@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.header {
+    width: 100%;
+}
+
+.navi {
+    width: 100%;
+}
+
+.main {
+    width: 100%;
+    display: flex;
+}
+
+.contents {
+    width: 70%;
+}
+
+.menu {
+    width: 30%;
+}
+
+.footer {
+    width: 100%;
+}
